@@ -12,6 +12,7 @@
                                 Name fields in required
                             </div>
                         </div>
+                        
                         <div class="col-md-12">
                             <label for="validationCustom01" class="form-label">Eamil</label>
                             <input type="email" class="form-control" v-model="model.student.email" required>
